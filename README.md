@@ -10,7 +10,7 @@
 <img src="https://lh3.googleusercontent.com/pw/ABLVV86iiVM1T5Y058P9dmfkdwPm0gHdH7QXvf3CGIxoYFQR7RkqMMLZigGaNb5F9e5OzWaXANUPFwfVR4UyGvVHjz82d-7cjXgtDUSoA2f59hj0GSzoeGGXobPIrkiQu_Jw44UQlxWP6RmES2UQGoImnLg=w721-h7-s-no-gm?authuser=0">
 </div>
 
- ### About
+### About
 <div align="center">
 <p>Welcome to my GitHub profile! My name is Igwe Francis, Igwefran6 or fran6 for short. I am a self-taught MERN Stack developer who loves to code and learn new technologies.</p>  
 
@@ -18,7 +18,11 @@
 <img src="https://lh3.googleusercontent.com/pw/ABLVV86iiVM1T5Y058P9dmfkdwPm0gHdH7QXvf3CGIxoYFQR7RkqMMLZigGaNb5F9e5OzWaXANUPFwfVR4UyGvVHjz82d-7cjXgtDUSoA2f59hj0GSzoeGGXobPIrkiQu_Jw44UQlxWP6RmES2UQGoImnLg=w721-h7-s-no-gm?authuser=0">
 </div>
 
- ### Languages and Tools
+<div align="center">
+
+### Languages and Tools
+
+</div>
 
 <div align="center">
   
