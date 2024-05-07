@@ -10,33 +10,15 @@
 <img src="https://lh3.googleusercontent.com/pw/ABLVV86iiVM1T5Y058P9dmfkdwPm0gHdH7QXvf3CGIxoYFQR7RkqMMLZigGaNb5F9e5OzWaXANUPFwfVR4UyGvVHjz82d-7cjXgtDUSoA2f59hj0GSzoeGGXobPIrkiQu_Jw44UQlxWP6RmES2UQGoImnLg=w721-h7-s-no-gm?authuser=0">
 </div>
 
-  ### About
+ ### About
 <div align="center">
 <p>Welcome to my GitHub profile! My name is Igwe Francis, Igwefran6 or fran6 for short. I am a self-taught MERN Stack developer who loves to code and learn new technologies.</p>  
-<br/>
-  <p>
-I'm a student and currently, I'm going through The Odin Project's full-stack developer course, which I've been on for several months.
-Through practice and experimentation, I have honed my skills in HTML, CSS, JavaScript, and I am continually improving.
-I am always on the lookout for new challenges that will push me out of my comfort zone and help me grow my skills.  
-  </p>
-<br/>
-  <p>
-My ultimate dream is to create innovative and user-friendly web applications that provide real value to users and one day lead teams of tech geeks into a new future of technology.</p>
-<br/>
-  <p>
-I am always open to new ideas and opportunities to collaborate with other passionate developers.
-  </p>
-<br/>
-  <p>
-Thank you for visiting my profile, and I look forward to connecting with you! Do have a pleasant day😉.</p>
-  </div>
-<br>
 
 <div align="center">
 <img src="https://lh3.googleusercontent.com/pw/ABLVV86iiVM1T5Y058P9dmfkdwPm0gHdH7QXvf3CGIxoYFQR7RkqMMLZigGaNb5F9e5OzWaXANUPFwfVR4UyGvVHjz82d-7cjXgtDUSoA2f59hj0GSzoeGGXobPIrkiQu_Jw44UQlxWP6RmES2UQGoImnLg=w721-h7-s-no-gm?authuser=0">
 </div>
 
-### Languages and Tools
+ ### Languages and Tools
 
 <div align="center">
   
