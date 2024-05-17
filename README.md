@@ -1,5 +1,5 @@
 </div>
-<h1 align="center"><b>Hi!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 <div align="center">
 <p>Welcome! I hope you enjoy scrolling through my profile;)</p>  
@@ -33,6 +33,7 @@
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+  ![Vercel](https://img.shields.io/badge/vercel-%238DD6.svg?style=for-the-badge&logo=vercel&logoColor=black)
   
 </div>
 <div align="center">
